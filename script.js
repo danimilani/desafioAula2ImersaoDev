@@ -5,7 +5,7 @@
 function test1(){
     var chuteAnimalOne = prompt("What is the name of this animal?")
     console.log(chuteAnimalOne)
-    if(chuteAnimalOne == "monkey"){
+    if(chuteAnimalOne == "monkey" || "Monkey"){
         alert("Correct!")
     } else {
         alert("Incorrect!")
@@ -15,7 +15,7 @@ function test1(){
 function test2(){
     var chuteAnimalTwo = prompt("What is the name of this animal?")
     console.log(chuteAnimalTwo)
-    if(chuteAnimalTwo == "cat"){
+    if(chuteAnimalTwo == "cat" || "Cat"){
         alert("Correct!")
     } else {
         alert("Incorrect!")
@@ -25,7 +25,7 @@ function test2(){
 function test3(){
     var chuteAnimalThree = prompt("What is the name of this animal?")
     console.log(chuteAnimalThree)
-    if(chuteAnimalThree == "dog"){
+    if(chuteAnimalThree == "dog" || "Dog"){
         alert("Correct!")
     } else {
         alert("Incorrect!")
