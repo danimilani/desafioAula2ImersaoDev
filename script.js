@@ -20,7 +20,7 @@ function test2(){
     if(chuteAnimalTwo.toUpperCase()==animalTwo.toUpperCase()){
         alert("Correct!")
     } else {
-        alert("Incorrect!")
+        alert("Please try again")
     }
 }
 
@@ -29,7 +29,7 @@ function test3(){
     if(chuteAnimalThree.toUpperCase()==animalThree.toUpperCase()){
         alert("Correct!")
     } else {
-        alert("Incorrect!")
+        alert("Please try again")
     }
 }
 
